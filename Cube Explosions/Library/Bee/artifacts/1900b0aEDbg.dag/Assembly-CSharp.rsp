@@ -355,6 +355,7 @@
 "Assets/Scripts/ColorSwitcher.cs"
 "Assets/Scripts/Cube.cs"
 "Assets/Scripts/Exploder.cs"
+"Assets/Scripts/FinderCube.cs"
 "Assets/Scripts/Spawner.cs"
 -langversion:9.0
 

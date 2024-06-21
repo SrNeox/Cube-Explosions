@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Cube.cs" />
+    <Compile Include="Assets\Scripts\FinderCube.cs" />
     <Compile Include="Assets\Scripts\ColorSwitcher.cs" />
     <Compile Include="Assets\Scripts\Exploder.cs" />
   </ItemGroup>

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\cube-explosions\\cube explosions\\assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\cube-explosions\\cube explosions\\assets\\scripts\\colorswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\cube-explosions\\cube explosions\\assets\\scripts\\findercube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\findercube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\assets\\scripts\\colorswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{284C2E83-DB11-8D6A-BF7D-56C0DD56BAC5}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "FinderCube.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\FinderCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinderCube.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\FinderCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinderCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:26:38.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cube.cs",
               "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\Cube.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cube.cs",
               "ToolTip": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\Cube.cs",
               "RelativeToolTip": "Assets\\Scripts\\Cube.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T14:18:42.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ColorSwitcher.cs",
               "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\ColorSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ColorSwitcher.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Exploder.cs",
               "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\Exploder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exploder.cs",
               "ToolTip": "C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Assets\\Scripts\\Exploder.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exploder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T09:46:14.948Z",
               "EditorCaption": ""

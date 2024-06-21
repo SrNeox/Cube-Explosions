@@ -8,11 +8,14 @@ public class Cube : MonoBehaviour
 
     [SerializeField] private Rigidbody _rigidbody;
     [SerializeField] private Renderer _renderer;
+
+    [SerializeField] private FinderCube _finder;
     [SerializeField] private Spawner _spawner;
     [SerializeField] private ColorSwitcher _colorSwitcher;
     [SerializeField] private Exploder _exploder;
 
     private float _splitChance = 1.0f;
+    private float buffExplosion;
 
     private void OnMouseDown()
     {
@@ -33,8 +36,22 @@ public class Cube : MonoBehaviour
                 Cube newCube = _spawner.Spawn(this);
                 newCube.transform.localScale = scale;
                 _colorSwitcher.SwitchColor(newCube);
-                _exploder.Explosion(newCube);
+                _exploder.Explosion(newCube, buffExplosion);
                 newCube.ReduceChance();
+                ++buffExplosion;
+            }
+        }
+        else
+        {
+            Collider[] colliders = _finder.Scan();
+
+            foreach (var collider in colliders)
+            {
+                if (collider.TryGetComponent(out Cube cube))
+                {
+                    buffExplosion += _exploder.CalculateExplosionForce(cube.transform);
+                    _exploder.Explosion(cube, buffExplosion);
+                }
             }
         }
 
