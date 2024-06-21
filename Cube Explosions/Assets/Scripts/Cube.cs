@@ -1,38 +1,39 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Cube : MonoBehaviour
 {
-    [SerializeField] private float _explosionForce = 50f;
-    [SerializeField] private float _splitChance = 1.0f;
+    private const float _numberDivision = 2;
+    private const int _minCube = 2;
+    private const int _maxCube = 7;
 
-    private Vector3 _explosionRadius = new(5f, 5f, 5f);
+    [SerializeField] private Rigidbody _rigidbody;
+    [SerializeField] private Renderer _renderer;
+    [SerializeField] private Spawner _spawner;
+    [SerializeField] private ColorSwitcher _colorSwitcher;
+    [SerializeField] private Exploder _exploder;
+
+    private float _splitChance = 1.0f;
 
     private void OnMouseDown()
     {
         SplitCube();
     }
 
-    public void ReduceChance() => _splitChance /= 2;
+    public void ReduceChance() => _splitChance /= _numberDivision;
 
     private void SplitCube()
     {
         if (Random.value <= _splitChance)
         {
-            int newCubeCount = Random.Range(2, 7);
+            int newCubeCount = Random.Range(_minCube, _maxCube);
+            Vector3 scale = transform.localScale / _numberDivision;
 
             for (int i = 0; i < newCubeCount; i++)
             {
-                Cube newCube = Instantiate(this, transform.position, Random.rotation);
-                newCube.transform.localScale = transform.localScale / 2;
-
-                newCube.TryGetComponent(out Renderer renderer);
-                renderer.material.color = new Color(Random.value, Random.value, Random.value, 1f);
-
-                newCube.TryGetComponent(out Rigidbody rigidbody);
-                rigidbody.AddExplosionForce(_explosionForce, transform.position, _explosionRadius.x);
-
+                Cube newCube = _spawner.Spawn(this);
+                newCube.transform.localScale = scale;
+                _colorSwitcher.SwitchColor(newCube);
+                _exploder.Explosion(newCube);
                 newCube.ReduceChance();
             }
         }

@@ -361,7 +361,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 110,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -2418,7 +2418,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52854,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -3098,7 +3098,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100633,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3789,7 +3789,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 159659,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4386,7 +4386,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 204878,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4936,7 +4936,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 247652,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5497,7 +5497,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 293217,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -6314,7 +6314,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 366928,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6862,7 +6862,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 411503,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7403,7 +7403,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 454979,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7946,7 +7946,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 499316,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8478,7 +8478,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 542412,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -9050,7 +9050,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 588438,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9636,7 +9636,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 635544,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -10172,7 +10172,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 678638,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -11113,7 +11113,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 773508,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11666,7 +11666,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 818393,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12217,7 +12217,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 861029,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12840,7 +12840,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 907637,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13438,7 +13438,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 954617,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14260,7 +14260,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1021437,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -15280,7 +15280,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1120963,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -16199,7 +16199,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1211342,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16944,7 +16944,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1274617,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17496,7 +17496,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1319106,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -18090,7 +18090,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1363662,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18706,7 +18706,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1415013,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19277,7 +19277,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1458592,
       "PayloadLength": 58,
-      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Bot",
+      "PayloadDebugContentSnippet": "C:\\Unity Project\\Unity Git\\Cub",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19289,7 +19289,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1458739,
-      "PayloadLength": 32886,
+      "PayloadLength": 32980,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -19301,7 +19301,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1491715,
+      "PayloadOffset": 1491809,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19545,7 +19545,10 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+        "Assets/Scripts/ColorSwitcher.cs",
         "Assets/Scripts/Cube.cs",
+        "Assets/Scripts/Exploder.cs",
+        "Assets/Scripts/Spawner.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp"
@@ -19784,7 +19787,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1491814,
+      "PayloadOffset": 1491908,
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20868,7 +20871,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\ScriptAssemblies\" -s=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Unity Project\\Unity Git\\Bots-collectors\\Cube Explosions\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\ScriptAssemblies\" -s=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Unity Project\\Unity Git\\Cube-Explosions\\Cube Explosions\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21154,6 +21157,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aEDbg.dag.json",
-  "PayloadsFile": "C:/Unity Project/Unity Git/Bots-collectors/Cube Explosions/Library/Bee/1900b0aEDbg.dag.payloads",
+  "PayloadsFile": "C:/Unity Project/Unity Git/Cube-Explosions/Cube Explosions/Library/Bee/1900b0aEDbg.dag.payloads",
   "RelativePathToRoot": "../.."
 }
